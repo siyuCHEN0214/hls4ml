@@ -10,5 +10,10 @@ Contact: [hls4ml.help@gmail.com](mailto:hls4ml.help@gmail.com)
 
 For the latest status including current and planned features, see the [Status and Features](STATUS.md) page. 
 
+## Tutorials
+
+Detailed tutorials on how to use `hls4ml`'s various functionalities can be found at:
+
+https://github.com/hls-fpga-machine-learning/hls4ml-tutorial
 
 
